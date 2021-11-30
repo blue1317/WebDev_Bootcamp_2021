@@ -1,0 +1,36 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+   /* box-sizing: border-box; */
+}
+
+
+/* Main Style */
+.top-block {
+    background-color: #D3E4CD;
+    height: 200px;
+    width: 200px;
+}
+
+.middle-block {
+    background-color: #99A799;
+    height: 200px;
+    width: 200px;
+}
+
+.bottom-block {
+    background-color: #F2DDC1;
+    height: 200px;
+    width: 200px;
+}
+
+footer {
+    background-color: #F2DDC1;
+
+}
+/*
+.top-block h1{
+    margin-bottom: 20px;
+}
+*/
